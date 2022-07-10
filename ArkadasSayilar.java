@@ -17,10 +17,10 @@ public class ArkadasSayilar {
             }
         }
         if (num1==counter2 && num2==counter1 ){
-            System.out.println("Arkadas sayi");
+            System.out.println("Friendy Number");
         }
         else {
-            System.out.println("Arakdas sayi degil ");
+            System.out.println("Not Friendy number");
         }
     }
 }
